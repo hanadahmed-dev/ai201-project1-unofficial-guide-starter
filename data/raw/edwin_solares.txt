@@ -1,0 +1,70 @@
+Professor: Edwin Solares
+
+Source: Rate My Professors
+
+URL: https://www.ratemyprofessors.com/professor/2999053
+
+Overall Rating: 1.5
+
+Overall Difficulty: 4.1
+
+Would Take Again: 15%
+
+Review 1
+
+Course: CSE 150A
+
+Attendance: Mandatory
+
+Students reported that lectures often spent significant time on topics they considered unrelated to course objectives. Reviews frequently mentioned that the course fell behind schedule, resulting in assignments being due before students felt adequately prepared. Many students reported relying heavily on self-study to complete coursework.
+
+Review 2
+
+Course: CSE 150A
+
+Grade: B-
+
+Attendance: Mandatory
+
+Students expressed frustration with mandatory early-morning lectures and multiple midterm exams scheduled outside normal class hours. Reviews frequently described assessments as extremely difficult and felt that lectures provided limited preparation for the exams.
+
+Review 3
+
+Course: CSE 150A
+
+Attendance: Mandatory
+
+Several reviews strongly advised students to seek alternative sections or instructors when possible. Students frequently described the course as difficult and challenging to navigate.
+
+Review 4
+
+Course: CSE 150A
+
+Grade: Incomplete
+
+Attendance: Mandatory
+
+Some students reported regretting enrolling in the course after reading reviews later in the quarter. Reviews commonly expressed dissatisfaction with the overall course experience.
+
+Review 5
+
+Course: CSE 151A
+
+Grade: B+
+
+Would Take Again: Yes
+
+Not all reviews were negative. Some students argued that Professor Solares' reputation was largely due to the challenging nature of machine learning courses rather than poor teaching. Reviews suggested that students who consistently attended lectures and engaged with the material could succeed. Coursework was still described as demanding, with significant homework requirements, but some students appreciated the rigor and authenticity of the learning experience.
+
+Tags:
+Participation matters, Extra credit, Lots of homework
+
+Common Themes
+
+* Reviews are overwhelmingly negative, particularly for CSE 150A.
+* Many students report teaching themselves large portions of the material.
+* Lectures are frequently described as unhelpful or poorly aligned with assignments.
+* Assessments are commonly viewed as difficult and demanding.
+* Attendance requirements are often criticized.
+* Some students acknowledge that the underlying machine learning material is inherently challenging.
+* A small number of reviews appreciate the rigor and depth of the coursework.

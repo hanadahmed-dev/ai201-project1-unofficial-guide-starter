@@ -1,0 +1,59 @@
+Professor: Russell Impagliazzo
+
+Source: Rate My Professors
+
+URL: https://www.ratemyprofessors.com/professor/563826
+
+Overall Rating: 4.0
+Overall Difficulty: 3.0
+
+Review 1
+
+Course: CSE 202
+
+Grade: A-
+
+Attendance: Not Mandatory
+
+Students reported that everyone in the class passed CSE 202. Assignments were very time consuming and required significant effort, with one student recommending spending approximately 20 hours per week on homework. Lectures were described as difficult to follow, and attendance appeared to decline significantly toward the end of the quarter. However, students felt that completing assignments and putting in reasonable effort on exams was sufficient to pass the course.
+
+Tags:
+Group projects, Test heavy
+
+Review 2
+
+Course: CSE 101
+
+Attendance: Not Mandatory
+
+Students reported a significant mismatch between instructional support and exam difficulty. The course did not include midterms, and a large portion of the final exam focused on concepts introduced during the final two weeks of class. Some students felt unprepared because quiz and homework feedback related to those topics had not yet been returned. Reviews suggested that students should be prepared to learn material independently.
+
+Tags:
+Tough grader, Graded by few things
+
+Review 3
+
+Course: CSE 101
+
+Grade: A-
+
+Attendance: Mandatory
+
+Students described the lecture slides as difficult to follow and criticized the organization of lectures. Some reviews mentioned that the instructor appeared behind schedule and released multiple homework assignments near the end of the quarter. One review noted frustration regarding communication about office hours and scheduling decisions.
+
+Tags:
+Test heavy, Graded by few things
+
+Review 4
+
+Course: CSE 101
+
+Students advised avoiding the course unless already familiar with the material. Reviews described multiple assignments being compressed into the final week of the quarter and criticized last-minute schedule changes. Several students felt that lectures lacked clarity and that the final exam focused heavily on a limited set of topics.
+
+Common Themes
+
+* Homework assignments can require substantial time and effort.
+* Multiple reviews describe lectures as difficult to follow.
+* Students reported concerns about course organization and scheduling.
+* Exams were frequently described as challenging relative to instructional support.
+* Some students recommended significant self-study outside of class.

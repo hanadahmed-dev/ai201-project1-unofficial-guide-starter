@@ -1,0 +1,76 @@
+Professor: Thomas Powell
+
+Source: Rate My Professors
+
+URL: https://www.ratemyprofessors.com/professor/857885
+
+Overall Rating: 2.5
+
+Overall Difficulty: 3.4
+
+Would Take Again: 29%
+
+Review 1
+
+Course: CSE 110
+
+Attendance: Mandatory
+
+Students reported frustration with the lecture content, describing it as only loosely connected to technical computer science topics. Reviews noted that attendance was required for participation credit despite some students finding lectures unhelpful. Several students felt they were expected to independently learn front-end technologies such as HTML, CSS, and JavaScript in order to complete course assignments. Concerns were also raised about exam preparation and unclear expectations.
+
+Tags:
+Group projects, Lecture heavy
+
+Review 2
+
+Course: CSE 110
+
+Attendance: Mandatory
+
+Students described lectures as focusing heavily on teamwork and software development processes rather than technical programming concepts. Reviews frequently mentioned self-learning requirements for web development technologies. Several students expressed frustration regarding participation requirements and the lack of clear guidance about exam content.
+
+Tags:
+Participation matters, Group projects
+
+Review 3
+
+Course: CSE 110
+
+Students reported that the course required a substantial time commitment and emphasized team-based software engineering practices. Some reviews felt that the material and expectations resembled an industry work environment more than a traditional academic course. Opinions on the value of this approach varied considerably among students.
+
+Tags:
+Participation matters, Group projects
+
+Review 4
+
+Course: CSE 135
+
+Attendance: Not Mandatory
+
+Students pursuing software engineering careers often viewed the course positively. Reviews praised the practical focus on web systems and described the material as highly relevant for understanding modern web development. Some students considered the course valuable preparation for industry work.
+
+Tags:
+Group projects, Amazing lectures, Respected
+
+Review 5
+
+Course: CSE 135
+
+Grade: A
+
+Attendance: Mandatory
+
+Not all reviews were positive. Some students felt the course scope was too broad and argued that the material could be learned more effectively through external resources. Reviews occasionally criticized the organization of course content and questioned the educational value of the lectures.
+
+Tags:
+Participation matters, Lecture heavy
+
+Common Themes
+
+* Reviews are highly polarized, with strong positive and negative opinions.
+* Many students report learning web technologies independently.
+* Courses emphasize teamwork, software engineering processes, and project work.
+* Attendance and participation often contribute significantly to grades.
+* Students frequently mention unclear expectations regarding exams and assessments.
+* Supporters view the courses as highly relevant to real-world software engineering.
+* Critics argue that lectures are not sufficiently focused on technical content.

@@ -1,0 +1,82 @@
+Professor: Paul Cao
+
+Source: Rate My Professors
+
+URL: https://www.ratemyprofessors.com/professor/2772323
+
+Overall Rating: 3.5
+
+Overall Difficulty: 3.6
+
+Would Take Again: 68%
+
+Review 1
+
+Course: CSE 12
+
+Grade: A
+
+Attendance: Mandatory
+
+Students reported that programming assignments and ZyBooks readings required a significant time commitment. However, quizzes and exams were generally viewed as straightforward and manageable for students who kept up with the coursework.
+
+Tags:
+Lots of homework
+
+Review 2
+
+Course: CSE 12
+
+Grade: A+
+
+Attendance: Mandatory
+
+Students described Professor Cao as knowledgeable and effective at teaching core computer science concepts. Programming assignments accounted for a large portion of the grade and often required substantial effort, but students felt they reinforced understanding of data structures. Reviews noted the availability of quiz retakes and numerous practice exams. Some students mentioned the coding portion of the final exam as the most challenging aspect of the course.
+
+Tags:
+Lots of homework
+
+Review 3
+
+Course: CSE 11
+
+Grade: A
+
+Attendance: Mandatory
+
+Students praised Professor Cao's teaching style, describing lectures as easy to follow and focused on student learning. Reviews highlighted the fairness of assessments and noted that practice exams closely reflected actual exams. Students frequently described the course as both educational and well organized.
+
+Tags:
+Participation matters, Lots of homework, Caring
+
+Review 4
+
+Course: CSE 12
+
+Attendance: Mandatory
+
+Students generally viewed Professor Cao positively but expressed concern about the course requirement to achieve at least 55% on the coding portion of the final exam in order to pass. Reviews noted that weekly programming assignments could be lengthy and time consuming.
+
+Tags:
+Tough grader, Respected
+
+Review 5
+
+Course: CSE 12
+
+Attendance: Mandatory
+
+Students described Professor Cao as knowledgeable and organized. Reviews noted that lectures were based on structured notes completed during class sessions. Attendance contributed to the final grade, although some absences were allowed. Students frequently praised the availability of previous quizzes, midterms, and finals for exam preparation.
+
+Tags:
+Clear grading criteria, Respected, Accessible outside class
+
+Common Themes
+
+* Programming assignments are frequently described as lengthy and time consuming.
+* Students generally view lectures as clear and easy to follow.
+* Practice exams and previous assessments are valuable study resources.
+* Grading is considered fair, though some students are concerned about the coding final requirement.
+* Attendance is mandatory but generally viewed as manageable.
+* Students often describe Professor Cao as knowledgeable, organized, and invested in student success.
+* Courses emphasize learning through hands-on programming assignments and data structure implementation.

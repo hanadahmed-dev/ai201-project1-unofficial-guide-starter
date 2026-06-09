@@ -1,0 +1,82 @@
+Professor: Janine Tiefenbruck
+
+Source: Rate My Professors
+
+URL: https://www.ratemyprofessors.com/professor/1992606
+
+Overall Rating: 3.7
+
+Overall Difficulty: 3.8
+
+Would Take Again: 65%
+
+Review 1
+
+Course: DSC 10
+
+Grade: A
+
+Attendance: Not Mandatory
+
+Students described Professor Tiefenbruck as an effective lecturer and recommended starting homework and projects early. One student with no prior programming experience reported spending many late nights working on assignments. Despite the workload, the projects were viewed as engaging and enjoyable, with creative references that made the course more interesting.
+
+Review 2
+
+Course: DSC 10
+
+Grade: B+
+
+Attendance: Not Mandatory
+
+Students reported a consistent weekly workload with frequent quizzes and assignments. Reviews suggested that the course material itself was not exceptionally difficult, but students could easily lose points on projects and homework. Some students felt that labs were the primary source of learning, while lectures served as supplemental material.
+
+Tags:
+Participation matters, Group projects, Lots of homework
+
+Review 3
+
+Course: DSC 10
+
+Grade: A-
+
+Attendance: Not Mandatory
+
+Students described Professor Tiefenbruck as highly supportive and committed to helping students succeed. Reviews mentioned extensive office hours and online resources. Homework assignments were frequent but considered useful for reinforcing concepts. Students also reported that the grading distribution was relatively forgiving, reducing the impact of poor exam performance.
+
+Tags:
+Lots of homework, Accessible outside class
+
+Review 4
+
+Course: DSC 10
+
+Grade: B-
+
+Attendance: Not Mandatory
+
+Students praised the organization of the course website and lecture materials. Reviews described the lectures as clear and well-structured. However, some students found quizzes and exams challenging, particularly those with limited Python experience.
+
+Tags:
+Amazing lectures, Clear grading criteria, Lots of homework
+
+Review 5
+
+Course: DSC 10
+
+Grade: B+
+
+Attendance: Mandatory
+
+Students reported that Professor Tiefenbruck presented material clearly and provided numerous resources to support learning. Reviews frequently mentioned that expectations and grading criteria were communicated effectively.
+
+Tags:
+Amazing lectures, Clear grading criteria
+
+Common Themes
+
+* Significant weekly workload with frequent homework and projects.
+* Strong course organization and well-structured resources.
+* Multiple reviews praise teaching quality and student support.
+* Office hours and learning resources are frequently described as helpful.
+* Exams and quizzes can be challenging, especially for students new to programming.
+* Students recommend starting assignments early to manage workload successfully.
